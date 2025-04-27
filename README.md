@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Miguel 👋</h1>
 <h3 align="center">Welcome to my Github profile!</h3>
 
-## 💫 About Me:
+## 👤 About Me:
 🎓 I'm currently a Computer Science freshman at UFPB.<br>🔭 I'm currently a SWE and AI Intern at Estudo Play.<br>😄 I'm passionate about learning new skills in the fields of AI and Software Engineering, that's currently what interests me most.
 
 ## 💻 Tech Stack:
