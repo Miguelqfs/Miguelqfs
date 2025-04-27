@@ -2,9 +2,9 @@
 <h3 align="center">Welcome to my Github profile!</h3>
 
 ## 👤 About Me:
-🎓 I'm a first-year Computer Science student at UFPB.<br>
-🔭 I'm currently a SWE and AI Intern at Estudo Play.<br>
-😄 I'm passionate about learning new skills in the fields of AI and Software Engineering, that's currently what interests me most.
+🎓 I'm a first-year **Computer Science** student at **UFPB**.<br>
+🔭 I'm currently an **AI Development Intern** at **Estudo Play**.<br>
+😄 I'm passionate about learning new skills in the fields of AI and Software Engineering, that's what interests me the most right now!
 
 ## 💻 Tech Stack:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
