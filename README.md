@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Miguel 👋</h1>
 <h3 align="center">Welcome to my Github profile!</h3>
 
-## 👨‍💻 About Me:
+## 🙋‍♂️ About Me:
 🎓 I'm a first-year **Computer Science** student at **UFPB**.<br>
 🔭 I'm currently an **AI Development Intern** at **Estudo Play**.<br>
 😄 I'm passionate about learning new skills in the fields of **AI** and **Software Engineering**, that's what interests me the most right now!
