@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me:
 🎓 I'm a first-year **Computer Science** student at **UFPB**.<br>
-🔭 I'm currently an **SWE Intern** at **Estudo Play**.<br>
+🔭 I'm currently a **Researcher** at **Dharma AI**.<br>
 😄 I'm passionate about building real-world solutions in **Software Engineering** and **AI**!
 
 ## 💻 Tech Stack:
