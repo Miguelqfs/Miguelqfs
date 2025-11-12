@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my Github profile!</h3>
 
 ## 🙋‍♂️ About Me:
-🎓 I'm a first-year **Computer Science** student at **UFPB**.<br>
+🎓 I'm a second-year **Computer Science** student at **UFPB**.<br>
 🔭 I'm currently a **Researcher** at **Dharma AI**.<br>
 😄 I'm passionate about building real-world solutions in **Software Engineering** and **AI**!
 
