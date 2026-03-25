@@ -3,8 +3,8 @@
 
 ## 🙋‍♂️ About Me:
 🎓 I'm a second-year **Computer Science** student at **UFPB**.<br>
-🔭 I'm currently a **SWE Intern** at **Dhauz** and also a **Researcher** at **Dharma AI**.<br>
-😄 I'm passionate about building real-world solutions in **Software Engineering** and **AI**!
+🔭 I'm currently a **SWE Intern** at **Dhauz**.<br>
+😄 I love building real stuff.
 
 ## 💻 Tech Stack:
 <p>
